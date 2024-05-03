@@ -4,3 +4,5 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nurgal1ev&theme=tokyonight" alt="GitHub Streak" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurgal1ev&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurgal1ev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
