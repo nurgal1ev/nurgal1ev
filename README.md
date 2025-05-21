@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Indev<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend, Cookies and Chill</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nurgal1ev&theme=tokyonight&mode=weekly&card_width=860&hide_border=true)](https://git.io/streak-stats)
